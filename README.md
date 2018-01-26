@@ -4,7 +4,7 @@ Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 master|[![Build Status](https://travis-ci.org/vdegttim/correct_cpp_scoreboard.svg?branch=master)](https://travis-ci.org/vdegttim/correct_cpp_scoreboard)|[![codecov.io](https://codecov.io/github/vdegttim/correct_cpp_scoreboard/coverage.svg?branch=master)](https://codecov.io/github/vdegttim/correct_cpp_scoreboard/branch/master)
 
-[Correct C++](https://github.com/vdegttim/correct_cpp) chapter 'Scoreboard'.
+[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Scoreboard'.
 
 ## Goal
 
